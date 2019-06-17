@@ -1,0 +1,3 @@
+CREATE USER noisebridge WITH PASSWORD 'noisebridge';
+CREATE DATABASE agendav ENCODING 'UTF8';
+GRANT ALL PRIVILEGES ON DATABASE agendav TO noisebridge;
