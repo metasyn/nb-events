@@ -6,7 +6,10 @@ USER=noisebridge
 
 
 make_calendar() {
-  curl -u $USER -X MKCOL "http://localhost:5232/$USER/calendar" --data "$(cat calendar.xml)"
+  for file in $(ls calendars); do
+    name="${file%%.*}"
+    curl -u $USER -X MKCOL "http://localhost:5232/$USER/$name" --data "$(cat calendars/$file)"
+  done;
 }
    
 

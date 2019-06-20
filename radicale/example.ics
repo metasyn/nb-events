@@ -1,0 +1,2049 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//RemoteApi//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://www.meetup.com/noisebridge/events/ical/
+X-WR-CALNAME:Events - Noisebridge Hackerspace
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190619T150000
+DTEND;TZID=America/Los_Angeles:20190619T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, June 19 at 3:00 PM\n\nBe
+ cause jobhunting and preparing for job interviews by yourself sucks. It'
+ s better to do it with a community! Come to Noisebridge and practice whi
+ tebo...\n\nhttps://www.meetup.com/noisebridge/events/262270557/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/262270557/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzjbzb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190619T183000
+DTEND;TZID=America/Los_Angeles:20190619T213000
+STATUS:CONFIRMED
+SUMMARY:SF Industrial Design Night
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, June 19 at 6:30 PM\n\nIn
+ dustrial Design (ID) has a lot of skills and nuances. From human-centere
+ d design to the trusty process. Whether you are a seasoned vet or haven’
+ t ev...\n\nhttps://www.meetup.com/noisebridge/events/262249987/
+CLASS:PUBLIC
+CREATED:20190404T144611Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge Hackerspace (2169 Mission St.\, San Francisco\, CA)
+URL:https://www.meetup.com/noisebridge/events/262249987/
+LAST-MODIFIED:20190404T144611Z
+UID:event_vntrvqyzjbzb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190619T190000
+DTEND;TZID=America/Los_Angeles:20190619T210000
+STATUS:CONFIRMED
+SUMMARY:BUIDL Night @ Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, June 19 at 7:00 PM\n\nBU
+ IDL Night @ NoisebridgeHosted by Kinnard from Cryptoforest + BitBoxhttps
+ ://www.meetup.com/CryptoForest/events/bqjbxqyzhbcb/ What happens when ha
+ cker...\n\nhttps://www.meetup.com/noisebridge/events/262295438/
+CLASS:PUBLIC
+CREATED:20190502T001438Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/262295438/
+LAST-MODIFIED:20190502T001438Z
+UID:event_crllxqyzjbzb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190619T200000
+DTEND;TZID=America/Los_Angeles:20190619T220000
+STATUS:CONFIRMED
+SUMMARY:Gamebridge Unityversity C# Unity game dev
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, June 19 at 8:00 PM\n\nUn
+ ityversity.com (http://unityversity.com): Learn to make Unity games\, mu
+ sic and art in free beginner-friendly class meetups and Twitch streams w
+ ith t...\n\nhttps://www.meetup.com/noisebridge/events/262231137/
+CLASS:PUBLIC
+CREATED:20190611T174742Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge Hackerspace (2169 Mission St.\, San Francisco\, CA)
+URL:https://www.meetup.com/noisebridge/events/262231137/
+LAST-MODIFIED:20190611T184555Z
+UID:event_tsqdcryzjbzb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190623T130000
+DTEND;TZID=America/Los_Angeles:20190623T143000
+STATUS:CONFIRMED
+SUMMARY:101 Intro to Ableton Live -- All are Welcome!  Bring Questions or
+  Just Show Up.
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, June 23 at 1:00 PM\n\nThis 
+ class is meant to give each participant a decent introduction to Ableton
+  Live. Class takes place in the main room at Noisebridge. This is a 101 
+ c...\n\nhttps://www.meetup.com/noisebridge/events/261638366/
+CLASS:PUBLIC
+CREATED:20181124T194756Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/261638366/
+LAST-MODIFIED:20181124T194756Z
+UID:event_bcvkmqyzjbfc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190623T160000
+DTEND;TZID=America/Los_Angeles:20190623T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, June 23 at 4:00 PM\n\n• Wha
+ t we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share our i
+ nstruments\, music\, audio and video projects! Software\, Hardware\, and
+  Snacks...\n\nhttps://www.meetup.com/noisebridge/events/260724797/
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (	 2169 Mission St\, 3rd floor San Francisco\, San F
+ rancisco\, CA 94110)
+URL:https://www.meetup.com/noisebridge/events/260724797/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyzjbfc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190624T190000
+DTEND;TZID=America/Los_Angeles:20190624T210000
+STATUS:CONFIRMED
+SUMMARY:Circuit Hacking Mondays - Learn to make cool things with electron
+ ics
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, June 24 at 7:00 PM\n\nLearn
+  to solder\, learn to make cool things with electronics. Hang out with c
+ ool hardware geeks at Noisebridge’s weekly Circuit Hacking Monday. All a
+ ge...\n\nhttps://www.meetup.com/noisebridge/events/262307069/
+CLASS:PUBLIC
+CREATED:20190614T034946Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/262307069/
+LAST-MODIFIED:20190614T034946Z
+UID:event_bqmhcryzjbgc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190624T190000
+DTEND;TZID=America/Los_Angeles:20190624T203000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Python Class
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, June 24 at 7:00 PM\n\nPyCla
+ ss is an introductory Python course run by the Noisebridge community!  M
+ essage the organizer to ask what this week's class will be on. Wiki Entr
+ y...\n\nhttps://www.meetup.com/noisebridge/events/262308665/
+CLASS:PUBLIC
+CREATED:20190312T005514Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/262308665/
+LAST-MODIFIED:20190312T005514Z
+UID:event_dznhtqyzjbgc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190625T200000
+DTEND;TZID=America/Los_Angeles:20190625T220000
+STATUS:CONFIRMED
+SUMMARY:Gamebridge Unityversity C# Unity game dev
+DESCRIPTION:Noisebridge Hackerspace\nTuesday\, June 25 at 8:00 PM\n\nUnit
+ yversity.com (http://unityversity.com): Learn to make Unity games\, musi
+ c and art in free beginner-friendly class meetups and Twitch streams wit
+ h t...\n\nhttps://www.meetup.com/noisebridge/events/262143750/
+CLASS:PUBLIC
+CREATED:20190317T213022Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge Hackerspace (2169 Mission St.\, San Francisco\, CA)
+URL:https://www.meetup.com/noisebridge/events/262143750/
+LAST-MODIFIED:20190611T184555Z
+UID:event_tsqdcryzjbhc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190626T150000
+DTEND;TZID=America/Los_Angeles:20190626T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, June 26 at 3:00 PM\n\nBe
+ cause jobhunting and preparing for job interviews by yourself sucks. It'
+ s better to do it with a community! Come to Noisebridge and practice whi
+ tebo...\n\nhttps://www.meetup.com/noisebridge/events/262108359/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/262108359/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzjbjc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190626T183000
+DTEND;TZID=America/Los_Angeles:20190626T213000
+STATUS:CONFIRMED
+SUMMARY:SF Industrial Design Night
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, June 26 at 6:30 PM\n\nIn
+ dustrial Design (ID) has a lot of skills and nuances. From human-centere
+ d design to the trusty process. Whether you are a seasoned vet or haven’
+ t ev...\n\nhttps://www.meetup.com/noisebridge/events/262148624/
+CLASS:PUBLIC
+CREATED:20190404T144611Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge Hackerspace (2169 Mission St.\, San Francisco\, CA)
+URL:https://www.meetup.com/noisebridge/events/262148624/
+LAST-MODIFIED:20190404T144611Z
+UID:event_vntrvqyzjbjc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190626T190000
+DTEND;TZID=America/Los_Angeles:20190626T210000
+STATUS:CONFIRMED
+SUMMARY:BUIDL Night @ Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, June 26 at 7:00 PM\n\nBU
+ IDL Night @ NoisebridgeHosted by Kinnard from Cryptoforest + BitBoxhttps
+ ://www.meetup.com/CryptoForest/events/bqjbxqyzhbcb/ What happens when ha
+ cker...\n\nhttps://www.meetup.com/noisebridge/events/crllxqyzjbjc/
+CLASS:PUBLIC
+CREATED:20190502T001438Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/crllxqyzjbjc/
+LAST-MODIFIED:20190502T001438Z
+UID:event_crllxqyzjbjc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190626T200000
+DTEND;TZID=America/Los_Angeles:20190626T220000
+STATUS:CONFIRMED
+SUMMARY:Gamebridge Unityversity C# Unity game dev
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, June 26 at 8:00 PM\n\nUn
+ ityversity.com (http://unityversity.com): Learn to make Unity games\, mu
+ sic and art in free beginner-friendly class meetups and Twitch streams w
+ ith t...\n\nhttps://www.meetup.com/noisebridge/events/262231134/
+CLASS:PUBLIC
+CREATED:20190611T174742Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge Hackerspace (2169 Mission St.\, San Francisco\, CA)
+URL:https://www.meetup.com/noisebridge/events/262231134/
+LAST-MODIFIED:20190611T184555Z
+UID:event_tsqdcryzjbjc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190627T180000
+DTEND;TZID=America/Los_Angeles:20190627T210000
+STATUS:CONFIRMED
+SUMMARY:Queer Game Developers Meetup! -- at Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, June 27 at 6:00 PM\n\nIMP
+ ORTANT -- Please use this to register for the event: https://www.eventbr
+ ite.com/e/queer-game-developers-meetup-at-noisebridge-tickets-5438178036
+ 9 !...\n\nhttps://www.meetup.com/noisebridge/events/262143438/
+CLASS:PUBLIC
+CREATED:20190305T225114Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/262143438/
+LAST-MODIFIED:20190305T225114Z
+UID:event_hcdxsqyzjbkc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190629T140000
+DTEND;TZID=America/Los_Angeles:20190629T160000
+STATUS:CONFIRMED
+SUMMARY:Climate potluck
+DESCRIPTION:Noisebridge Hackerspace\nSaturday\, June 29 at 2:00 PM\n\nBy 
+ 2100\, global temperature will increase by about 3.2 °C (range is 2.0–4.
+ 9 °C) and there's a 5% chance that it will be less than 2 °C. (based on.
+ ..\n\nhttps://www.meetup.com/noisebridge/events/262422978/
+CLASS:PUBLIC
+CREATED:20190618T192011Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/262422978/
+LAST-MODIFIED:20190618T192102Z
+UID:event_262422978@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190701T190000
+DTEND;TZID=America/Los_Angeles:20190701T210000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Sewing Project Night
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 1 at 7:00 PM\n\nWant t
+ o learn how to sew?Learn how to use a new machine?Dying to talk fashion 
+ or just want to work on a project? This is an informal gathering of peop
+ ...\n\nhttps://www.meetup.com/noisebridge/events/262298173/
+CLASS:PUBLIC
+CREATED:20181214T043048Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge Hackerspace (2169 Mission St.\, San Francisco\, CA)
+URL:https://www.meetup.com/noisebridge/events/262298173/
+LAST-MODIFIED:20181214T043048Z
+UID:event_llrhnqyzkbcb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190701T190000
+DTEND;TZID=America/Los_Angeles:20190701T210000
+STATUS:CONFIRMED
+SUMMARY:Circuit Hacking Mondays - Learn to make cool things with electron
+ ics
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 1 at 7:00 PM\n\nLearn 
+ to solder\, learn to make cool things with electronics. Hang out with co
+ ol hardware geeks at Noisebridge’s weekly Circuit Hacking Monday. All ag
+ e...\n\nhttps://www.meetup.com/noisebridge/events/262307070/
+CLASS:PUBLIC
+CREATED:20190614T034946Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/262307070/
+LAST-MODIFIED:20190614T034946Z
+UID:event_bqmhcryzkbcb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190701T190000
+DTEND;TZID=America/Los_Angeles:20190701T203000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Python Class
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 1 at 7:00 PM\n\nPyClas
+ s is an introductory Python course run by the Noisebridge community!  Me
+ ssage the organizer to ask what this week's class will be on. Wiki Entry
+ ...\n\nhttps://www.meetup.com/noisebridge/events/dznhtqyzkbcb/
+CLASS:PUBLIC
+CREATED:20190312T005514Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/dznhtqyzkbcb/
+LAST-MODIFIED:20190312T005514Z
+UID:event_dznhtqyzkbcb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190703T150000
+DTEND;TZID=America/Los_Angeles:20190703T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 3 at 3:00 PM\n\nBec
+ ause jobhunting and preparing for job interviews by yourself sucks. It's
+  better to do it with a community! Come to Noisebridge and practice whit
+ ebo...\n\nhttps://www.meetup.com/noisebridge/events/bqgrpqyzkbfb/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqgrpqyzkbfb/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzkbfb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190703T183000
+DTEND;TZID=America/Los_Angeles:20190703T213000
+STATUS:CONFIRMED
+SUMMARY:SF Industrial Design Night
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 3 at 6:30 PM\n\nInd
+ ustrial Design (ID) has a lot of skills and nuances. From human-centered
+  design to the trusty process. Whether you are a seasoned vet or haven’t
+  ev...\n\nhttps://www.meetup.com/noisebridge/events/262392440/
+CLASS:PUBLIC
+CREATED:20190404T144611Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge Hackerspace (2169 Mission St.\, San Francisco\, CA)
+URL:https://www.meetup.com/noisebridge/events/262392440/
+LAST-MODIFIED:20190617T173221Z
+UID:event_vntrvqyzkbfb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190703T190000
+DTEND;TZID=America/Los_Angeles:20190703T210000
+STATUS:CONFIRMED
+SUMMARY:BUIDL Night @ Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 3 at 7:00 PM\n\nBUI
+ DL Night @ NoisebridgeHosted by Kinnard from Cryptoforest + BitBoxhttps:
+ //www.meetup.com/CryptoForest/events/bqjbxqyzhbcb/ What happens when hac
+ ker...\n\nhttps://www.meetup.com/noisebridge/events/261849615/
+CLASS:PUBLIC
+CREATED:20190502T001438Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/261849615/
+LAST-MODIFIED:20190502T001438Z
+UID:event_crllxqyzkbfb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190703T200000
+DTEND;TZID=America/Los_Angeles:20190703T220000
+STATUS:CONFIRMED
+SUMMARY:Gamebridge Unityversity C# Unity game dev
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 3 at 8:00 PM\n\nUni
+ tyversity.com (http://unityversity.com): Learn to make Unity games\, mus
+ ic and art in free beginner-friendly class meetups and Twitch streams wi
+ th t...\n\nhttps://www.meetup.com/noisebridge/events/tsqdcryzkbfb/
+CLASS:PUBLIC
+CREATED:20190611T184554Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/tsqdcryzkbfb/
+LAST-MODIFIED:20190611T184554Z
+UID:event_tsqdcryzkbfb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190705T120000
+DTEND;TZID=America/Los_Angeles:20190707T120000
+STATUS:CONFIRMED
+SUMMARY:Cleaning Weekend!
+DESCRIPTION:Noisebridge Hackerspace\nFriday\, July 5 at 12:00 PM\n\nThat’
+ s right\, It’s that time again! With extra pre-move bonus! Noisebridge i
+ s dirty and disorganized right now. Let’s clean it up. If you haven’t be
+ en...\n\nhttps://www.meetup.com/noisebridge/events/262425119/
+CLASS:PUBLIC
+CREATED:20190618T200810Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/262425119/
+LAST-MODIFIED:20190618T200810Z
+UID:event_262425119@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190707T130000
+DTEND;TZID=America/Los_Angeles:20190707T143000
+STATUS:CONFIRMED
+SUMMARY:101 Intro to Ableton Live -- All are Welcome!  Bring Questions or
+  Just Show Up.
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, July 7 at 1:00 PM\n\nThis c
+ lass is meant to give each participant a decent introduction to Ableton 
+ Live. Class takes place in the main room at Noisebridge. This is a 101 c
+ ...\n\nhttps://www.meetup.com/noisebridge/events/261917922/
+CLASS:PUBLIC
+CREATED:20181124T194756Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/261917922/
+LAST-MODIFIED:20181124T194756Z
+UID:event_bcvkmqyzkbkb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190707T160000
+DTEND;TZID=America/Los_Angeles:20190707T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, July 7 at 4:00 PM\n\n• What
+  we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share our in
+ struments\, music\, audio and video projects! Software\, Hardware\, and 
+ Snacks...\n\nhttps://www.meetup.com/noisebridge/events/mrvlnpyzkbkb/
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/mrvlnpyzkbkb/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyzkbkb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190708T190000
+DTEND;TZID=America/Los_Angeles:20190708T203000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Python Class
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 8 at 7:00 PM\n\nPyClas
+ s is an introductory Python course run by the Noisebridge community!  Me
+ ssage the organizer to ask what this week's class will be on. Wiki Entry
+ ...\n\nhttps://www.meetup.com/noisebridge/events/dznhtqyzkblb/
+CLASS:PUBLIC
+CREATED:20190312T005514Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/dznhtqyzkblb/
+LAST-MODIFIED:20190312T005514Z
+UID:event_dznhtqyzkblb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190708T190000
+DTEND;TZID=America/Los_Angeles:20190708T210000
+STATUS:CONFIRMED
+SUMMARY:Circuit Hacking Mondays - Learn to make cool things with electron
+ ics
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 8 at 7:00 PM\n\nLearn 
+ to solder\, learn to make cool things with electronics. Hang out with co
+ ol hardware geeks at Noisebridge’s weekly Circuit Hacking Monday. All ag
+ e...\n\nhttps://www.meetup.com/noisebridge/events/bqmhcryzkblb/
+CLASS:PUBLIC
+CREATED:20190614T034946Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqmhcryzkblb/
+LAST-MODIFIED:20190614T034946Z
+UID:event_bqmhcryzkblb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190710T150000
+DTEND;TZID=America/Los_Angeles:20190710T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 10 at 3:00 PM\n\nBe
+ cause jobhunting and preparing for job interviews by yourself sucks. It'
+ s better to do it with a community! Come to Noisebridge and practice whi
+ tebo...\n\nhttps://www.meetup.com/noisebridge/events/bqgrpqyzkbnb/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqgrpqyzkbnb/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzkbnb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190710T183000
+DTEND;TZID=America/Los_Angeles:20190710T213000
+STATUS:CONFIRMED
+SUMMARY:SF Industrial Design Night
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 10 at 6:30 PM\n\nIn
+ dustrial Design (ID) has a lot of skills and nuances. From human-centere
+ d design to the trusty process. Whether you are a seasoned vet or haven’
+ t ev...\n\nhttps://www.meetup.com/noisebridge/events/vntrvqyzkbnb/
+CLASS:PUBLIC
+CREATED:20190404T144611Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/vntrvqyzkbnb/
+LAST-MODIFIED:20190404T144611Z
+UID:event_vntrvqyzkbnb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190710T190000
+DTEND;TZID=America/Los_Angeles:20190710T210000
+STATUS:CONFIRMED
+SUMMARY:BUIDL Night @ Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 10 at 7:00 PM\n\nBU
+ IDL Night @ NoisebridgeHosted by Kinnard from Cryptoforest + BitBoxhttps
+ ://www.meetup.com/CryptoForest/events/bqjbxqyzhbcb/ What happens when ha
+ cker...\n\nhttps://www.meetup.com/noisebridge/events/crllxqyzkbnb/
+CLASS:PUBLIC
+CREATED:20190502T001438Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/crllxqyzkbnb/
+LAST-MODIFIED:20190502T001438Z
+UID:event_crllxqyzkbnb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190710T200000
+DTEND;TZID=America/Los_Angeles:20190710T220000
+STATUS:CONFIRMED
+SUMMARY:Gamebridge Unityversity C# Unity game dev
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 10 at 8:00 PM\n\nUn
+ ityversity.com (http://unityversity.com): Learn to make Unity games\, mu
+ sic and art in free beginner-friendly class meetups and Twitch streams w
+ ith t...\n\nhttps://www.meetup.com/noisebridge/events/tsqdcryzkbnb/
+CLASS:PUBLIC
+CREATED:20190611T184554Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/tsqdcryzkbnb/
+LAST-MODIFIED:20190611T184554Z
+UID:event_tsqdcryzkbnb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190711T190000
+DTEND;TZID=America/Los_Angeles:20190711T210000
+STATUS:CONFIRMED
+SUMMARY:Laser Cutter Safety Training
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, July 11 at 7:00 PM\n\nNoi
+ sebridge has a lovely 100W\, 3 x 4 ft\, CO2 laser cutter. Learn how to b
+ e safe while using the laser cutter! This training is required to use th
+ e las...\n\nhttps://www.meetup.com/noisebridge/events/261136690/
+CLASS:PUBLIC
+CREATED:20190311T061059Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (	 2169 Mission St\, 3rd floor San Francisco\, San F
+ rancisco\, CA 94110)
+URL:https://www.meetup.com/noisebridge/events/261136690/
+LAST-MODIFIED:20190311T061059Z
+UID:event_flmgtqyzkbpb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190711T193000
+DTEND;TZID=America/Los_Angeles:20190711T213000
+STATUS:CONFIRMED
+SUMMARY:Network Hacking (security) 101!
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, July 11 at 7:30 PM\n\nWe 
+ all know to be careful on coffee shop (and Noisebridge) WiFi\, but maybe
+  you don’t know what an attack actually looks like. Let’s fix that! This
+  wor...\n\nhttps://www.meetup.com/noisebridge/events/262286985/
+CLASS:PUBLIC
+CREATED:20190613T144912Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge Hackerspace (2169 Mission St.\, San Francisco\, CA)
+URL:https://www.meetup.com/noisebridge/events/262286985/
+LAST-MODIFIED:20190613T144912Z
+UID:event_262286985@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190715T190000
+DTEND;TZID=America/Los_Angeles:20190715T210000
+STATUS:CONFIRMED
+SUMMARY:Circuit Hacking Mondays - Learn to make cool things with electron
+ ics
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 15 at 7:00 PM\n\nLearn
+  to solder\, learn to make cool things with electronics. Hang out with c
+ ool hardware geeks at Noisebridge’s weekly Circuit Hacking Monday. All a
+ ge...\n\nhttps://www.meetup.com/noisebridge/events/261887430/
+CLASS:PUBLIC
+CREATED:20190414T211938Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/261887430/
+LAST-MODIFIED:20190614T034947Z
+UID:event_bqmhcryzkbtb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190715T190000
+DTEND;TZID=America/Los_Angeles:20190715T210000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Sewing Project Night
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 15 at 7:00 PM\n\nWant 
+ to learn how to sew?Learn how to use a new machine?Dying to talk fashion
+  or just want to work on a project? This is an informal gathering of peo
+ p...\n\nhttps://www.meetup.com/noisebridge/events/llrhnqyzkbtb/
+CLASS:PUBLIC
+CREATED:20181214T043048Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/llrhnqyzkbtb/
+LAST-MODIFIED:20181214T043048Z
+UID:event_llrhnqyzkbtb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190715T190000
+DTEND;TZID=America/Los_Angeles:20190715T203000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Python Class
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 15 at 7:00 PM\n\nPyCla
+ ss is an introductory Python course run by the Noisebridge community!  M
+ essage the organizer to ask what this week's class will be on. Wiki Entr
+ y...\n\nhttps://www.meetup.com/noisebridge/events/dznhtqyzkbtb/
+CLASS:PUBLIC
+CREATED:20190312T005514Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/dznhtqyzkbtb/
+LAST-MODIFIED:20190312T005514Z
+UID:event_dznhtqyzkbtb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190717T150000
+DTEND;TZID=America/Los_Angeles:20190717T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 17 at 3:00 PM\n\nBe
+ cause jobhunting and preparing for job interviews by yourself sucks. It'
+ s better to do it with a community! Come to Noisebridge and practice whi
+ tebo...\n\nhttps://www.meetup.com/noisebridge/events/bqgrpqyzkbwb/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqgrpqyzkbwb/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzkbwb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190717T183000
+DTEND;TZID=America/Los_Angeles:20190717T213000
+STATUS:CONFIRMED
+SUMMARY:SF Industrial Design Night
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 17 at 6:30 PM\n\nIn
+ dustrial Design (ID) has a lot of skills and nuances. From human-centere
+ d design to the trusty process. Whether you are a seasoned vet or haven’
+ t ev...\n\nhttps://www.meetup.com/noisebridge/events/vntrvqyzkbwb/
+CLASS:PUBLIC
+CREATED:20190404T144611Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/vntrvqyzkbwb/
+LAST-MODIFIED:20190404T144611Z
+UID:event_vntrvqyzkbwb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190717T190000
+DTEND;TZID=America/Los_Angeles:20190717T210000
+STATUS:CONFIRMED
+SUMMARY:BUIDL Night @ Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 17 at 7:00 PM\n\nBU
+ IDL Night @ NoisebridgeHosted by Kinnard from Cryptoforest + BitBoxhttps
+ ://www.meetup.com/CryptoForest/events/bqjbxqyzhbcb/ What happens when ha
+ cker...\n\nhttps://www.meetup.com/noisebridge/events/crllxqyzkbwb/
+CLASS:PUBLIC
+CREATED:20190502T001438Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/crllxqyzkbwb/
+LAST-MODIFIED:20190502T001438Z
+UID:event_crllxqyzkbwb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190717T200000
+DTEND;TZID=America/Los_Angeles:20190717T220000
+STATUS:CONFIRMED
+SUMMARY:Gamebridge Unityversity C# Unity game dev
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 17 at 8:00 PM\n\nUn
+ ityversity.com (http://unityversity.com): Learn to make Unity games\, mu
+ sic and art in free beginner-friendly class meetups and Twitch streams w
+ ith t...\n\nhttps://www.meetup.com/noisebridge/events/tsqdcryzkbwb/
+CLASS:PUBLIC
+CREATED:20190611T184554Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/tsqdcryzkbwb/
+LAST-MODIFIED:20190611T184554Z
+UID:event_tsqdcryzkbwb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190721T130000
+DTEND;TZID=America/Los_Angeles:20190721T143000
+STATUS:CONFIRMED
+SUMMARY:101 Intro to Ableton Live -- All are Welcome!  Bring Questions or
+  Just Show Up.
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, July 21 at 1:00 PM\n\nThis 
+ class is meant to give each participant a decent introduction to Ableton
+  Live. Class takes place in the main room at Noisebridge. This is a 101 
+ c...\n\nhttps://www.meetup.com/noisebridge/events/bcvkmqyzkbcc/
+CLASS:PUBLIC
+CREATED:20181124T194756Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bcvkmqyzkbcc/
+LAST-MODIFIED:20181124T194756Z
+UID:event_bcvkmqyzkbcc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190721T160000
+DTEND;TZID=America/Los_Angeles:20190721T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, July 21 at 4:00 PM\n\n• Wha
+ t we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share our i
+ nstruments\, music\, audio and video projects! Software\, Hardware\, and
+  Snacks...\n\nhttps://www.meetup.com/noisebridge/events/mrvlnpyzkbcc/
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/mrvlnpyzkbcc/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyzkbcc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190722T190000
+DTEND;TZID=America/Los_Angeles:20190722T203000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Python Class
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 22 at 7:00 PM\n\nPyCla
+ ss is an introductory Python course run by the Noisebridge community!  M
+ essage the organizer to ask what this week's class will be on. Wiki Entr
+ y...\n\nhttps://www.meetup.com/noisebridge/events/dznhtqyzkbdc/
+CLASS:PUBLIC
+CREATED:20190312T005514Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/dznhtqyzkbdc/
+LAST-MODIFIED:20190312T005514Z
+UID:event_dznhtqyzkbdc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190722T190000
+DTEND;TZID=America/Los_Angeles:20190722T210000
+STATUS:CONFIRMED
+SUMMARY:Circuit Hacking Mondays - Learn to make cool things with electron
+ ics
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 22 at 7:00 PM\n\nLearn
+  to solder\, learn to make cool things with electronics. Hang out with c
+ ool hardware geeks at Noisebridge’s weekly Circuit Hacking Monday. All a
+ ge...\n\nhttps://www.meetup.com/noisebridge/events/bqmhcryzkbdc/
+CLASS:PUBLIC
+CREATED:20190614T034946Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqmhcryzkbdc/
+LAST-MODIFIED:20190614T034946Z
+UID:event_bqmhcryzkbdc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190724T150000
+DTEND;TZID=America/Los_Angeles:20190724T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 24 at 3:00 PM\n\nBe
+ cause jobhunting and preparing for job interviews by yourself sucks. It'
+ s better to do it with a community! Come to Noisebridge and practice whi
+ tebo...\n\nhttps://www.meetup.com/noisebridge/events/bqgrpqyzkbgc/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqgrpqyzkbgc/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzkbgc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190724T183000
+DTEND;TZID=America/Los_Angeles:20190724T213000
+STATUS:CONFIRMED
+SUMMARY:SF Industrial Design Night
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 24 at 6:30 PM\n\nIn
+ dustrial Design (ID) has a lot of skills and nuances. From human-centere
+ d design to the trusty process. Whether you are a seasoned vet or haven’
+ t ev...\n\nhttps://www.meetup.com/noisebridge/events/vntrvqyzkbgc/
+CLASS:PUBLIC
+CREATED:20190404T144611Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/vntrvqyzkbgc/
+LAST-MODIFIED:20190404T144611Z
+UID:event_vntrvqyzkbgc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190724T190000
+DTEND;TZID=America/Los_Angeles:20190724T210000
+STATUS:CONFIRMED
+SUMMARY:BUIDL Night @ Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 24 at 7:00 PM\n\nBU
+ IDL Night @ NoisebridgeHosted by Kinnard from Cryptoforest + BitBoxhttps
+ ://www.meetup.com/CryptoForest/events/bqjbxqyzhbcb/ What happens when ha
+ cker...\n\nhttps://www.meetup.com/noisebridge/events/crllxqyzkbgc/
+CLASS:PUBLIC
+CREATED:20190502T001438Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/crllxqyzkbgc/
+LAST-MODIFIED:20190502T001438Z
+UID:event_crllxqyzkbgc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190724T200000
+DTEND;TZID=America/Los_Angeles:20190724T220000
+STATUS:CONFIRMED
+SUMMARY:Gamebridge Unityversity C# Unity game dev
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 24 at 8:00 PM\n\nUn
+ ityversity.com (http://unityversity.com): Learn to make Unity games\, mu
+ sic and art in free beginner-friendly class meetups and Twitch streams w
+ ith t...\n\nhttps://www.meetup.com/noisebridge/events/tsqdcryzkbgc/
+CLASS:PUBLIC
+CREATED:20190611T184554Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/tsqdcryzkbgc/
+LAST-MODIFIED:20190611T184554Z
+UID:event_tsqdcryzkbgc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190725T180000
+DTEND;TZID=America/Los_Angeles:20190725T210000
+STATUS:CONFIRMED
+SUMMARY:Queer Game Developers Meetup! -- at Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, July 25 at 6:00 PM\n\nIMP
+ ORTANT -- Please use this to register for the event: https://www.eventbr
+ ite.com/e/queer-game-developers-meetup-at-noisebridge-tickets-5438178036
+ 9 !...\n\nhttps://www.meetup.com/noisebridge/events/hcdxsqyzkbhc/
+CLASS:PUBLIC
+CREATED:20190305T225114Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/hcdxsqyzkbhc/
+LAST-MODIFIED:20190305T225114Z
+UID:event_hcdxsqyzkbhc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190729T190000
+DTEND;TZID=America/Los_Angeles:20190729T210000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Sewing Project Night
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 29 at 7:00 PM\n\nWant 
+ to learn how to sew?Learn how to use a new machine?Dying to talk fashion
+  or just want to work on a project? This is an informal gathering of peo
+ p...\n\nhttps://www.meetup.com/noisebridge/events/llrhnqyzkbmc/
+CLASS:PUBLIC
+CREATED:20181214T043048Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/llrhnqyzkbmc/
+LAST-MODIFIED:20181214T043048Z
+UID:event_llrhnqyzkbmc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190729T190000
+DTEND;TZID=America/Los_Angeles:20190729T203000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Python Class
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 29 at 7:00 PM\n\nPyCla
+ ss is an introductory Python course run by the Noisebridge community!  M
+ essage the organizer to ask what this week's class will be on. Wiki Entr
+ y...\n\nhttps://www.meetup.com/noisebridge/events/dznhtqyzkbmc/
+CLASS:PUBLIC
+CREATED:20190312T005514Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/dznhtqyzkbmc/
+LAST-MODIFIED:20190312T005514Z
+UID:event_dznhtqyzkbmc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190729T190000
+DTEND;TZID=America/Los_Angeles:20190729T210000
+STATUS:CONFIRMED
+SUMMARY:Circuit Hacking Mondays - Learn to make cool things with electron
+ ics
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, July 29 at 7:00 PM\n\nLearn
+  to solder\, learn to make cool things with electronics. Hang out with c
+ ool hardware geeks at Noisebridge’s weekly Circuit Hacking Monday. All a
+ ge...\n\nhttps://www.meetup.com/noisebridge/events/bqmhcryzkbmc/
+CLASS:PUBLIC
+CREATED:20190614T034946Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqmhcryzkbmc/
+LAST-MODIFIED:20190614T034946Z
+UID:event_bqmhcryzkbmc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190731T150000
+DTEND;TZID=America/Los_Angeles:20190731T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 31 at 3:00 PM\n\nBe
+ cause jobhunting and preparing for job interviews by yourself sucks. It'
+ s better to do it with a community! Come to Noisebridge and practice whi
+ tebo...\n\nhttps://www.meetup.com/noisebridge/events/bqgrpqyzkbpc/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqgrpqyzkbpc/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzkbpc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190731T183000
+DTEND;TZID=America/Los_Angeles:20190731T213000
+STATUS:CONFIRMED
+SUMMARY:SF Industrial Design Night
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 31 at 6:30 PM\n\nIn
+ dustrial Design (ID) has a lot of skills and nuances. From human-centere
+ d design to the trusty process. Whether you are a seasoned vet or haven’
+ t ev...\n\nhttps://www.meetup.com/noisebridge/events/vntrvqyzkbpc/
+CLASS:PUBLIC
+CREATED:20190404T144611Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/vntrvqyzkbpc/
+LAST-MODIFIED:20190404T144611Z
+UID:event_vntrvqyzkbpc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190731T190000
+DTEND;TZID=America/Los_Angeles:20190731T210000
+STATUS:CONFIRMED
+SUMMARY:BUIDL Night @ Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 31 at 7:00 PM\n\nBU
+ IDL Night @ NoisebridgeHosted by Kinnard from Cryptoforest + BitBoxhttps
+ ://www.meetup.com/CryptoForest/events/bqjbxqyzhbcb/ What happens when ha
+ cker...\n\nhttps://www.meetup.com/noisebridge/events/crllxqyzkbpc/
+CLASS:PUBLIC
+CREATED:20190502T001438Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/crllxqyzkbpc/
+LAST-MODIFIED:20190502T001438Z
+UID:event_crllxqyzkbpc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190731T200000
+DTEND;TZID=America/Los_Angeles:20190731T220000
+STATUS:CONFIRMED
+SUMMARY:Gamebridge Unityversity C# Unity game dev
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, July 31 at 8:00 PM\n\nUn
+ ityversity.com (http://unityversity.com): Learn to make Unity games\, mu
+ sic and art in free beginner-friendly class meetups and Twitch streams w
+ ith t...\n\nhttps://www.meetup.com/noisebridge/events/tsqdcryzkbpc/
+CLASS:PUBLIC
+CREATED:20190611T184554Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/tsqdcryzkbpc/
+LAST-MODIFIED:20190611T184554Z
+UID:event_tsqdcryzkbpc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190804T130000
+DTEND;TZID=America/Los_Angeles:20190804T143000
+STATUS:CONFIRMED
+SUMMARY:101 Intro to Ableton Live -- All are Welcome!  Bring Questions or
+  Just Show Up.
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, August 4 at 1:00 PM\n\nThis
+  class is meant to give each participant a decent introduction to Ableto
+ n Live. Class takes place in the main room at Noisebridge. This is a 101
+  c...\n\nhttps://www.meetup.com/noisebridge/events/bcvkmqyzlbgb/
+CLASS:PUBLIC
+CREATED:20181124T194756Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bcvkmqyzlbgb/
+LAST-MODIFIED:20181124T194756Z
+UID:event_bcvkmqyzlbgb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190804T160000
+DTEND;TZID=America/Los_Angeles:20190804T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, August 4 at 4:00 PM\n\n• Wh
+ at we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share our 
+ instruments\, music\, audio and video projects! Software\, Hardware\, an
+ d Snacks...\n\nhttps://www.meetup.com/noisebridge/events/mrvlnpyzlbgb/
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/mrvlnpyzlbgb/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyzlbgb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190805T190000
+DTEND;TZID=America/Los_Angeles:20190805T203000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Python Class
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, August 5 at 7:00 PM\n\nPyCl
+ ass is an introductory Python course run by the Noisebridge community!  
+ Message the organizer to ask what this week's class will be on. Wiki Ent
+ ry...\n\nhttps://www.meetup.com/noisebridge/events/259276685/
+CLASS:PUBLIC
+CREATED:20181205T030624Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/259276685/
+LAST-MODIFIED:20190312T005514Z
+UID:event_dznhtqyzlbhb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190805T190000
+DTEND;TZID=America/Los_Angeles:20190805T210000
+STATUS:CONFIRMED
+SUMMARY:Circuit Hacking Mondays - Learn to make cool things with electron
+ ics
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, August 5 at 7:00 PM\n\nLear
+ n to solder\, learn to make cool things with electronics. Hang out with 
+ cool hardware geeks at Noisebridge’s weekly Circuit Hacking Monday. All 
+ age...\n\nhttps://www.meetup.com/noisebridge/events/bqmhcryzlbhb/
+CLASS:PUBLIC
+CREATED:20190614T034946Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqmhcryzlbhb/
+LAST-MODIFIED:20190614T034946Z
+UID:event_bqmhcryzlbhb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190807T150000
+DTEND;TZID=America/Los_Angeles:20190807T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 7 at 3:00 PM\n\nB
+ ecause jobhunting and preparing for job interviews by yourself sucks. It
+ 's better to do it with a community! Come to Noisebridge and practice wh
+ itebo...\n\nhttps://www.meetup.com/noisebridge/events/bqgrpqyzlbkb/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqgrpqyzlbkb/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzlbkb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190807T183000
+DTEND;TZID=America/Los_Angeles:20190807T213000
+STATUS:CONFIRMED
+SUMMARY:SF Industrial Design Night
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 7 at 6:30 PM\n\nI
+ ndustrial Design (ID) has a lot of skills and nuances. From human-center
+ ed design to the trusty process. Whether you are a seasoned vet or haven
+ ’t ev...\n\nhttps://www.meetup.com/noisebridge/events/vntrvqyzlbkb/
+CLASS:PUBLIC
+CREATED:20190404T144611Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/vntrvqyzlbkb/
+LAST-MODIFIED:20190404T144611Z
+UID:event_vntrvqyzlbkb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190807T190000
+DTEND;TZID=America/Los_Angeles:20190807T210000
+STATUS:CONFIRMED
+SUMMARY:BUIDL Night @ Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 7 at 7:00 PM\n\nB
+ UIDL Night @ NoisebridgeHosted by Kinnard from Cryptoforest + BitBoxhttp
+ s://www.meetup.com/CryptoForest/events/bqjbxqyzhbcb/ What happens when h
+ acker...\n\nhttps://www.meetup.com/noisebridge/events/crllxqyzlbkb/
+CLASS:PUBLIC
+CREATED:20190502T001438Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/crllxqyzlbkb/
+LAST-MODIFIED:20190502T001438Z
+UID:event_crllxqyzlbkb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190807T200000
+DTEND;TZID=America/Los_Angeles:20190807T220000
+STATUS:CONFIRMED
+SUMMARY:Gamebridge Unityversity C# Unity game dev
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 7 at 8:00 PM\n\nU
+ nityversity.com (http://unityversity.com): Learn to make Unity games\, m
+ usic and art in free beginner-friendly class meetups and Twitch streams 
+ with t...\n\nhttps://www.meetup.com/noisebridge/events/tsqdcryzlbkb/
+CLASS:PUBLIC
+CREATED:20190611T184554Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/tsqdcryzlbkb/
+LAST-MODIFIED:20190611T184554Z
+UID:event_tsqdcryzlbkb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190808T190000
+DTEND;TZID=America/Los_Angeles:20190808T210000
+STATUS:CONFIRMED
+SUMMARY:Laser Cutter Safety Training
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, August 8 at 7:00 PM\n\nNo
+ isebridge has a lovely 100W\, 3 x 4 ft\, CO2 laser cutter. Learn how to 
+ be safe while using the laser cutter! This training is required to use t
+ he las...\n\nhttps://www.meetup.com/noisebridge/events/260517241/
+CLASS:PUBLIC
+CREATED:20190311T061059Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (	 2169 Mission St\, 3rd floor San Francisco\, San F
+ rancisco\, CA 94110)
+URL:https://www.meetup.com/noisebridge/events/260517241/
+LAST-MODIFIED:20190311T061059Z
+UID:event_flmgtqyzlblb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190812T190000
+DTEND;TZID=America/Los_Angeles:20190812T203000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Python Class
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, August 12 at 7:00 PM\n\nPyC
+ lass is an introductory Python course run by the Noisebridge community! 
+  Message the organizer to ask what this week's class will be on. Wiki En
+ try...\n\nhttps://www.meetup.com/noisebridge/events/259276716/
+CLASS:PUBLIC
+CREATED:20181205T030624Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/259276716/
+LAST-MODIFIED:20190312T005515Z
+UID:event_dznhtqyzlbqb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190812T190000
+DTEND;TZID=America/Los_Angeles:20190812T210000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Sewing Project Night
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, August 12 at 7:00 PM\n\nWan
+ t to learn how to sew?Learn how to use a new machine?Dying to talk fashi
+ on or just want to work on a project? This is an informal gathering of p
+ eop...\n\nhttps://www.meetup.com/noisebridge/events/llrhnqyzlbqb/
+CLASS:PUBLIC
+CREATED:20181214T043048Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/llrhnqyzlbqb/
+LAST-MODIFIED:20181214T043048Z
+UID:event_llrhnqyzlbqb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190812T190000
+DTEND;TZID=America/Los_Angeles:20190812T210000
+STATUS:CONFIRMED
+SUMMARY:Circuit Hacking Mondays - Learn to make cool things with electron
+ ics
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, August 12 at 7:00 PM\n\nLea
+ rn to solder\, learn to make cool things with electronics. Hang out with
+  cool hardware geeks at Noisebridge’s weekly Circuit Hacking Monday. All
+  age...\n\nhttps://www.meetup.com/noisebridge/events/bqmhcryzlbqb/
+CLASS:PUBLIC
+CREATED:20190614T034946Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqmhcryzlbqb/
+LAST-MODIFIED:20190614T034946Z
+UID:event_bqmhcryzlbqb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190814T150000
+DTEND;TZID=America/Los_Angeles:20190814T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 14 at 3:00 PM\n\n
+ Because jobhunting and preparing for job interviews by yourself sucks. I
+ t's better to do it with a community! Come to Noisebridge and practice w
+ hitebo...\n\nhttps://www.meetup.com/noisebridge/events/259276732/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/259276732/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzlbsb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190814T183000
+DTEND;TZID=America/Los_Angeles:20190814T213000
+STATUS:CONFIRMED
+SUMMARY:SF Industrial Design Night
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 14 at 6:30 PM\n\n
+ Industrial Design (ID) has a lot of skills and nuances. From human-cente
+ red design to the trusty process. Whether you are a seasoned vet or have
+ n’t ev...\n\nhttps://www.meetup.com/noisebridge/events/vntrvqyzlbsb/
+CLASS:PUBLIC
+CREATED:20190404T144611Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/vntrvqyzlbsb/
+LAST-MODIFIED:20190404T144611Z
+UID:event_vntrvqyzlbsb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190814T190000
+DTEND;TZID=America/Los_Angeles:20190814T210000
+STATUS:CONFIRMED
+SUMMARY:BUIDL Night @ Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 14 at 7:00 PM\n\n
+ BUIDL Night @ NoisebridgeHosted by Kinnard from Cryptoforest + BitBoxhtt
+ ps://www.meetup.com/CryptoForest/events/bqjbxqyzhbcb/ What happens when 
+ hacker...\n\nhttps://www.meetup.com/noisebridge/events/crllxqyzlbsb/
+CLASS:PUBLIC
+CREATED:20190502T001438Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/crllxqyzlbsb/
+LAST-MODIFIED:20190502T001438Z
+UID:event_crllxqyzlbsb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190814T200000
+DTEND;TZID=America/Los_Angeles:20190814T220000
+STATUS:CONFIRMED
+SUMMARY:Gamebridge Unityversity C# Unity game dev
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 14 at 8:00 PM\n\n
+ Unityversity.com (http://unityversity.com): Learn to make Unity games\, 
+ music and art in free beginner-friendly class meetups and Twitch streams
+  with t...\n\nhttps://www.meetup.com/noisebridge/events/tsqdcryzlbsb/
+CLASS:PUBLIC
+CREATED:20190611T184554Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/tsqdcryzlbsb/
+LAST-MODIFIED:20190611T184554Z
+UID:event_tsqdcryzlbsb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190818T130000
+DTEND;TZID=America/Los_Angeles:20190818T143000
+STATUS:CONFIRMED
+SUMMARY:101 Intro to Ableton Live -- All are Welcome!  Bring Questions or
+  Just Show Up.
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, August 18 at 1:00 PM\n\nThi
+ s class is meant to give each participant a decent introduction to Ablet
+ on Live. Class takes place in the main room at Noisebridge. This is a 10
+ 1 c...\n\nhttps://www.meetup.com/noisebridge/events/bcvkmqyzlbxb/
+CLASS:PUBLIC
+CREATED:20181124T194756Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bcvkmqyzlbxb/
+LAST-MODIFIED:20181124T194756Z
+UID:event_bcvkmqyzlbxb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190818T160000
+DTEND;TZID=America/Los_Angeles:20190818T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, August 18 at 4:00 PM\n\n• W
+ hat we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share our
+  instruments\, music\, audio and video projects! Software\, Hardware\, a
+ nd Snacks...\n\nhttps://www.meetup.com/noisebridge/events/mrvlnpyzlbxb/
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/mrvlnpyzlbxb/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyzlbxb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190819T190000
+DTEND;TZID=America/Los_Angeles:20190819T203000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Python Class
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, August 19 at 7:00 PM\n\nPyC
+ lass is an introductory Python course run by the Noisebridge community! 
+  Message the organizer to ask what this week's class will be on. Wiki En
+ try...\n\nhttps://www.meetup.com/noisebridge/events/259276764/
+CLASS:PUBLIC
+CREATED:20181205T030624Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/259276764/
+LAST-MODIFIED:20190312T005515Z
+UID:event_dznhtqyzlbzb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190819T190000
+DTEND;TZID=America/Los_Angeles:20190819T210000
+STATUS:CONFIRMED
+SUMMARY:Circuit Hacking Mondays - Learn to make cool things with electron
+ ics
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, August 19 at 7:00 PM\n\nLea
+ rn to solder\, learn to make cool things with electronics. Hang out with
+  cool hardware geeks at Noisebridge’s weekly Circuit Hacking Monday. All
+  age...\n\nhttps://www.meetup.com/noisebridge/events/259276779/
+CLASS:PUBLIC
+CREATED:20190116T013158Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/259276779/
+LAST-MODIFIED:20190614T034947Z
+UID:event_bqmhcryzlbzb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190821T150000
+DTEND;TZID=America/Los_Angeles:20190821T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 21 at 3:00 PM\n\n
+ Because jobhunting and preparing for job interviews by yourself sucks. I
+ t's better to do it with a community! Come to Noisebridge and practice w
+ hitebo...\n\nhttps://www.meetup.com/noisebridge/events/259276783/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/259276783/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzlbcc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190821T183000
+DTEND;TZID=America/Los_Angeles:20190821T213000
+STATUS:CONFIRMED
+SUMMARY:SF Industrial Design Night
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 21 at 6:30 PM\n\n
+ Industrial Design (ID) has a lot of skills and nuances. From human-cente
+ red design to the trusty process. Whether you are a seasoned vet or have
+ n’t ev...\n\nhttps://www.meetup.com/noisebridge/events/vntrvqyzlbcc/
+CLASS:PUBLIC
+CREATED:20190404T144611Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/vntrvqyzlbcc/
+LAST-MODIFIED:20190404T144611Z
+UID:event_vntrvqyzlbcc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190821T190000
+DTEND;TZID=America/Los_Angeles:20190821T210000
+STATUS:CONFIRMED
+SUMMARY:BUIDL Night @ Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 21 at 7:00 PM\n\n
+ BUIDL Night @ NoisebridgeHosted by Kinnard from Cryptoforest + BitBoxhtt
+ ps://www.meetup.com/CryptoForest/events/bqjbxqyzhbcb/ What happens when 
+ hacker...\n\nhttps://www.meetup.com/noisebridge/events/crllxqyzlbcc/
+CLASS:PUBLIC
+CREATED:20190502T001438Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/crllxqyzlbcc/
+LAST-MODIFIED:20190502T001438Z
+UID:event_crllxqyzlbcc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190821T200000
+DTEND;TZID=America/Los_Angeles:20190821T220000
+STATUS:CONFIRMED
+SUMMARY:Gamebridge Unityversity C# Unity game dev
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 21 at 8:00 PM\n\n
+ Unityversity.com (http://unityversity.com): Learn to make Unity games\, 
+ music and art in free beginner-friendly class meetups and Twitch streams
+  with t...\n\nhttps://www.meetup.com/noisebridge/events/tsqdcryzlbcc/
+CLASS:PUBLIC
+CREATED:20190611T184554Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/tsqdcryzlbcc/
+LAST-MODIFIED:20190611T184554Z
+UID:event_tsqdcryzlbcc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190826T190000
+DTEND;TZID=America/Los_Angeles:20190826T203000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Python Class
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, August 26 at 7:00 PM\n\nPyC
+ lass is an introductory Python course run by the Noisebridge community! 
+  Message the organizer to ask what this week's class will be on. Wiki En
+ try...\n\nhttps://www.meetup.com/noisebridge/events/259276789/
+CLASS:PUBLIC
+CREATED:20181205T030624Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/259276789/
+LAST-MODIFIED:20190312T005515Z
+UID:event_dznhtqyzlbjc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190826T190000
+DTEND;TZID=America/Los_Angeles:20190826T210000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Sewing Project Night
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, August 26 at 7:00 PM\n\nWan
+ t to learn how to sew?Learn how to use a new machine?Dying to talk fashi
+ on or just want to work on a project? This is an informal gathering of p
+ eop...\n\nhttps://www.meetup.com/noisebridge/events/llrhnqyzlbjc/
+CLASS:PUBLIC
+CREATED:20181214T043048Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/llrhnqyzlbjc/
+LAST-MODIFIED:20181214T043048Z
+UID:event_llrhnqyzlbjc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190826T190000
+DTEND;TZID=America/Los_Angeles:20190826T210000
+STATUS:CONFIRMED
+SUMMARY:Circuit Hacking Mondays - Learn to make cool things with electron
+ ics
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, August 26 at 7:00 PM\n\nLea
+ rn to solder\, learn to make cool things with electronics. Hang out with
+  cool hardware geeks at Noisebridge’s weekly Circuit Hacking Monday. All
+  age...\n\nhttps://www.meetup.com/noisebridge/events/bqmhcryzlbjc/
+CLASS:PUBLIC
+CREATED:20190614T034946Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bqmhcryzlbjc/
+LAST-MODIFIED:20190614T034946Z
+UID:event_bqmhcryzlbjc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190828T150000
+DTEND;TZID=America/Los_Angeles:20190828T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, August 28 at 3:00 PM\n\n
+ Because jobhunting and preparing for job interviews by yourself sucks. I
+ t's better to do it with a community! Come to Noisebridge and practice w
+ hitebo...\n\nhttps://www.meetup.com/noisebridge/events/259276791/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/259276791/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzlblc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190829T180000
+DTEND;TZID=America/Los_Angeles:20190829T210000
+STATUS:CONFIRMED
+SUMMARY:Queer Game Developers Meetup! -- at Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, August 29 at 6:00 PM\n\nI
+ MPORTANT -- Please use this to register for the event: https://www.event
+ brite.com/e/queer-game-developers-meetup-at-noisebridge-tickets-54381780
+ 369 !...\n\nhttps://www.meetup.com/noisebridge/events/hcdxsqyzlbmc/
+CLASS:PUBLIC
+CREATED:20190305T225114Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/hcdxsqyzlbmc/
+LAST-MODIFIED:20190305T225114Z
+UID:event_hcdxsqyzlbmc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190901T130000
+DTEND;TZID=America/Los_Angeles:20190901T143000
+STATUS:CONFIRMED
+SUMMARY:101 Intro to Ableton Live -- All are Welcome!  Bring Questions or
+  Just Show Up.
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, September 1 at 1:00 PM\n\nT
+ his class is meant to give each participant a decent introduction to Abl
+ eton Live. Class takes place in the main room at Noisebridge. This is a 
+ 101 c...\n\nhttps://www.meetup.com/noisebridge/events/bcvkmqyzmbcb/
+CLASS:PUBLIC
+CREATED:20181124T194756Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bcvkmqyzmbcb/
+LAST-MODIFIED:20181124T194756Z
+UID:event_bcvkmqyzmbcb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190901T160000
+DTEND;TZID=America/Los_Angeles:20190901T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, September 1 at 4:00 PM\n\n•
+  What we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share o
+ ur instruments\, music\, audio and video projects! Software\, Hardware\,
+  and Snacks...\n\nhttps://www.meetup.com/noisebridge/events/mrvlnpyzmbcb
+ /
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/mrvlnpyzmbcb/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyzmbcb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190902T190000
+DTEND;TZID=America/Los_Angeles:20190902T203000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Python Class
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, September 2 at 7:00 PM\n\nP
+ yClass is an introductory Python course run by the Noisebridge community
+ !  Message the organizer to ask what this week's class will be on. Wiki 
+ Entry...\n\nhttps://www.meetup.com/noisebridge/events/259276800/
+CLASS:PUBLIC
+CREATED:20181205T030624Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/259276800/
+LAST-MODIFIED:20190312T005515Z
+UID:event_dznhtqyzmbdb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190904T150000
+DTEND;TZID=America/Los_Angeles:20190904T190000
+STATUS:CONFIRMED
+SUMMARY:Whiteboarding & Algorithms Workshop - Wednesday Edition (self-dir
+ ected\, drop-in)
+DESCRIPTION:Noisebridge Hackerspace\nWednesday\, September 4 at 3:00 PM\n
+ \nBecause jobhunting and preparing for job interviews by yourself sucks.
+  It's better to do it with a community! Come to Noisebridge and practice
+  whitebo...\n\nhttps://www.meetup.com/noisebridge/events/259276809/
+CLASS:PUBLIC
+CREATED:20190110T074414Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (2169 Mission St.\, 3rd Floor\, San Francisco\, CA 9
+ 4110)
+URL:https://www.meetup.com/noisebridge/events/259276809/
+LAST-MODIFIED:20190110T074414Z
+UID:event_bqgrpqyzmbgb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190909T190000
+DTEND;TZID=America/Los_Angeles:20190909T210000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Sewing Project Night
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, September 9 at 7:00 PM\n\nW
+ ant to learn how to sew?Learn how to use a new machine?Dying to talk fas
+ hion or just want to work on a project? This is an informal gathering of
+  peop...\n\nhttps://www.meetup.com/noisebridge/events/llrhnqyzmbmb/
+CLASS:PUBLIC
+CREATED:20181214T043048Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/llrhnqyzmbmb/
+LAST-MODIFIED:20181214T043048Z
+UID:event_llrhnqyzmbmb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190912T190000
+DTEND;TZID=America/Los_Angeles:20190912T210000
+STATUS:CONFIRMED
+SUMMARY:Laser Cutter Safety Training
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, September 12 at 7:00 PM\n
+ \nNoisebridge has a lovely 100W\, 3 x 4 ft\, CO2 laser cutter. Learn how
+  to be safe while using the laser cutter! This training is required to u
+ se the las...\n\nhttps://www.meetup.com/noisebridge/events/262191184/
+CLASS:PUBLIC
+CREATED:20190311T061059Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (	 2169 Mission St\, 3rd floor San Francisco\, San F
+ rancisco\, CA 94110)
+URL:https://www.meetup.com/noisebridge/events/262191184/
+LAST-MODIFIED:20190311T061059Z
+UID:event_flmgtqyzmbqb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190915T130000
+DTEND;TZID=America/Los_Angeles:20190915T143000
+STATUS:CONFIRMED
+SUMMARY:101 Intro to Ableton Live -- All are Welcome!  Bring Questions or
+  Just Show Up.
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, September 15 at 1:00 PM\n\n
+ This class is meant to give each participant a decent introduction to Ab
+ leton Live. Class takes place in the main room at Noisebridge. This is a
+  101 c...\n\nhttps://www.meetup.com/noisebridge/events/bcvkmqyzmbtb/
+CLASS:PUBLIC
+CREATED:20181124T194756Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bcvkmqyzmbtb/
+LAST-MODIFIED:20181124T194756Z
+UID:event_bcvkmqyzmbtb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190915T160000
+DTEND;TZID=America/Los_Angeles:20190915T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, September 15 at 4:00 PM\n\n
+ • What we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share 
+ our instruments\, music\, audio and video projects! Software\, Hardware\
+ , and Snacks...\n\nhttps://www.meetup.com/noisebridge/events/mrvlnpyzmbt
+ b/
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/mrvlnpyzmbtb/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyzmbtb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190923T190000
+DTEND;TZID=America/Los_Angeles:20190923T210000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Sewing Project Night
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, September 23 at 7:00 PM\n\n
+ Want to learn how to sew?Learn how to use a new machine?Dying to talk fa
+ shion or just want to work on a project? This is an informal gathering o
+ f peop...\n\nhttps://www.meetup.com/noisebridge/events/llrhnqyzmbfc/
+CLASS:PUBLIC
+CREATED:20181214T043048Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/llrhnqyzmbfc/
+LAST-MODIFIED:20181214T043048Z
+UID:event_llrhnqyzmbfc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190926T180000
+DTEND;TZID=America/Los_Angeles:20190926T210000
+STATUS:CONFIRMED
+SUMMARY:Queer Game Developers Meetup! -- at Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, September 26 at 6:00 PM\n
+ \nIMPORTANT -- Please use this to register for the event: https://www.ev
+ entbrite.com/e/queer-game-developers-meetup-at-noisebridge-tickets-54381
+ 780369 !...\n\nhttps://www.meetup.com/noisebridge/events/hcdxsqyzmbjc/
+CLASS:PUBLIC
+CREATED:20190305T225114Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/hcdxsqyzmbjc/
+LAST-MODIFIED:20190305T225114Z
+UID:event_hcdxsqyzmbjc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190929T130000
+DTEND;TZID=America/Los_Angeles:20190929T143000
+STATUS:CONFIRMED
+SUMMARY:101 Intro to Ableton Live -- All are Welcome!  Bring Questions or
+  Just Show Up.
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, September 29 at 1:00 PM\n\n
+ This class is meant to give each participant a decent introduction to Ab
+ leton Live. Class takes place in the main room at Noisebridge. This is a
+  101 c...\n\nhttps://www.meetup.com/noisebridge/events/bcvkmqyzmbmc/
+CLASS:PUBLIC
+CREATED:20181124T194756Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bcvkmqyzmbmc/
+LAST-MODIFIED:20181124T194756Z
+UID:event_bcvkmqyzmbmc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20190929T160000
+DTEND;TZID=America/Los_Angeles:20190929T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, September 29 at 4:00 PM\n\n
+ • What we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share 
+ our instruments\, music\, audio and video projects! Software\, Hardware\
+ , and Snacks...\n\nhttps://www.meetup.com/noisebridge/events/mrvlnpyzmbm
+ c/
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/mrvlnpyzmbmc/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyzmbmc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191007T190000
+DTEND;TZID=America/Los_Angeles:20191007T210000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Sewing Project Night
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, October 7 at 7:00 PM\n\nWan
+ t to learn how to sew?Learn how to use a new machine?Dying to talk fashi
+ on or just want to work on a project? This is an informal gathering of p
+ eop...\n\nhttps://www.meetup.com/noisebridge/events/llrhnqyznbkb/
+CLASS:PUBLIC
+CREATED:20181214T043048Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/llrhnqyznbkb/
+LAST-MODIFIED:20181214T043048Z
+UID:event_llrhnqyznbkb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191010T190000
+DTEND;TZID=America/Los_Angeles:20191010T210000
+STATUS:CONFIRMED
+SUMMARY:Laser Cutter Safety Training
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, October 10 at 7:00 PM\n\n
+ Noisebridge has a lovely 100W\, 3 x 4 ft\, CO2 laser cutter. Learn how t
+ o be safe while using the laser cutter! This training is required to use
+  the las...\n\nhttps://www.meetup.com/noisebridge/events/flmgtqyznbnb/
+CLASS:PUBLIC
+CREATED:20190311T061059Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/flmgtqyznbnb/
+LAST-MODIFIED:20190311T061059Z
+UID:event_flmgtqyznbnb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191013T130000
+DTEND;TZID=America/Los_Angeles:20191013T143000
+STATUS:CONFIRMED
+SUMMARY:101 Intro to Ableton Live -- All are Welcome!  Bring Questions or
+  Just Show Up.
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, October 13 at 1:00 PM\n\nTh
+ is class is meant to give each participant a decent introduction to Able
+ ton Live. Class takes place in the main room at Noisebridge. This is a 1
+ 01 c...\n\nhttps://www.meetup.com/noisebridge/events/bcvkmqyznbrb/
+CLASS:PUBLIC
+CREATED:20181124T194756Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bcvkmqyznbrb/
+LAST-MODIFIED:20181124T194756Z
+UID:event_bcvkmqyznbrb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191013T160000
+DTEND;TZID=America/Los_Angeles:20191013T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, October 13 at 4:00 PM\n\n• 
+ What we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share ou
+ r instruments\, music\, audio and video projects! Software\, Hardware\, 
+ and Snacks...\n\nhttps://www.meetup.com/noisebridge/events/mrvlnpyznbrb/
+ 
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/mrvlnpyznbrb/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyznbrb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191021T190000
+DTEND;TZID=America/Los_Angeles:20191021T210000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Sewing Project Night
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, October 21 at 7:00 PM\n\nWa
+ nt to learn how to sew?Learn how to use a new machine?Dying to talk fash
+ ion or just want to work on a project? This is an informal gathering of 
+ peop...\n\nhttps://www.meetup.com/noisebridge/events/llrhnqyznbcc/
+CLASS:PUBLIC
+CREATED:20181214T043048Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/llrhnqyznbcc/
+LAST-MODIFIED:20181214T043048Z
+UID:event_llrhnqyznbcc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191027T130000
+DTEND;TZID=America/Los_Angeles:20191027T143000
+STATUS:CONFIRMED
+SUMMARY:101 Intro to Ableton Live -- All are Welcome!  Bring Questions or
+  Just Show Up.
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, October 27 at 1:00 PM\n\nTh
+ is class is meant to give each participant a decent introduction to Able
+ ton Live. Class takes place in the main room at Noisebridge. This is a 1
+ 01 c...\n\nhttps://www.meetup.com/noisebridge/events/bcvkmqyznbkc/
+CLASS:PUBLIC
+CREATED:20181124T194756Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/bcvkmqyznbkc/
+LAST-MODIFIED:20181124T194756Z
+UID:event_bcvkmqyznbkc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191027T160000
+DTEND;TZID=America/Los_Angeles:20191027T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, October 27 at 4:00 PM\n\n• 
+ What we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share ou
+ r instruments\, music\, audio and video projects! Software\, Hardware\, 
+ and Snacks...\n\nhttps://www.meetup.com/noisebridge/events/mrvlnpyznbkc/
+ 
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/mrvlnpyznbkc/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyznbkc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191031T180000
+DTEND;TZID=America/Los_Angeles:20191031T210000
+STATUS:CONFIRMED
+SUMMARY:Queer Game Developers Meetup! -- at Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, October 31 at 6:00 PM\n\n
+ IMPORTANT -- Please use this to register for the event: https://www.even
+ tbrite.com/e/queer-game-developers-meetup-at-noisebridge-tickets-5438178
+ 0369 !...\n\nhttps://www.meetup.com/noisebridge/events/hcdxsqyznbpc/
+CLASS:PUBLIC
+CREATED:20190305T225114Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/hcdxsqyznbpc/
+LAST-MODIFIED:20190305T225114Z
+UID:event_hcdxsqyznbpc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191104T190000
+DTEND;TZID=America/Los_Angeles:20191104T210000
+STATUS:CONFIRMED
+SUMMARY:Noisebridge Sewing Project Night
+DESCRIPTION:Noisebridge Hackerspace\nMonday\, November 4 at 7:00 PM\n\nWa
+ nt to learn how to sew?Learn how to use a new machine?Dying to talk fash
+ ion or just want to work on a project? This is an informal gathering of 
+ peop...\n\nhttps://www.meetup.com/noisebridge/events/llrhnqyzpbgb/
+CLASS:PUBLIC
+CREATED:20181214T043048Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/llrhnqyzpbgb/
+LAST-MODIFIED:20181214T043048Z
+UID:event_llrhnqyzpbgb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191114T190000
+DTEND;TZID=America/Los_Angeles:20191114T210000
+STATUS:CONFIRMED
+SUMMARY:Laser Cutter Safety Training
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, November 14 at 7:00 PM\n\
+ nNoisebridge has a lovely 100W\, 3 x 4 ft\, CO2 laser cutter. Learn how 
+ to be safe while using the laser cutter! This training is required to us
+ e the las...\n\nhttps://www.meetup.com/noisebridge/events/flmgtqyzpbsb/
+CLASS:PUBLIC
+CREATED:20190311T061059Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/flmgtqyzpbsb/
+LAST-MODIFIED:20190311T061059Z
+UID:event_flmgtqyzpbsb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191124T160000
+DTEND;TZID=America/Los_Angeles:20191124T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, November 24 at 4:00 PM\n\n•
+  What we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share o
+ ur instruments\, music\, audio and video projects! Software\, Hardware\,
+  and Snacks...\n\nhttps://www.meetup.com/noisebridge/events/260777580/
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (	 2169 Mission St\, 3rd floor San Francisco\, San F
+ rancisco\, CA 94110)
+URL:https://www.meetup.com/noisebridge/events/260777580/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyzpbgc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191128T180000
+DTEND;TZID=America/Los_Angeles:20191128T210000
+STATUS:CONFIRMED
+SUMMARY:Queer Game Developers Meetup! -- at Noisebridge
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, November 28 at 6:00 PM\n\
+ nIMPORTANT -- Please use this to register for the event: https://www.eve
+ ntbrite.com/e/queer-game-developers-meetup-at-noisebridge-tickets-543817
+ 80369 !...\n\nhttps://www.meetup.com/noisebridge/events/hcdxsqyzpblc/
+CLASS:PUBLIC
+CREATED:20190305T225114Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/hcdxsqyzpblc/
+LAST-MODIFIED:20190305T225114Z
+UID:event_hcdxsqyzpblc@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191208T160000
+DTEND;TZID=America/Los_Angeles:20191208T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, December 8 at 4:00 PM\n\n• 
+ What we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share ou
+ r instruments\, music\, audio and video projects! Software\, Hardware\, 
+ and Snacks...\n\nhttps://www.meetup.com/noisebridge/events/260778785/
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (	 2169 Mission St\, 3rd floor San Francisco\, San F
+ rancisco\, CA 94110)
+URL:https://www.meetup.com/noisebridge/events/260778785/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyzqblb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191212T190000
+DTEND;TZID=America/Los_Angeles:20191212T210000
+STATUS:CONFIRMED
+SUMMARY:Laser Cutter Safety Training
+DESCRIPTION:Noisebridge Hackerspace\nThursday\, December 12 at 7:00 PM\n\
+ nNoisebridge has a lovely 100W\, 3 x 4 ft\, CO2 laser cutter. Learn how 
+ to be safe while using the laser cutter! This training is required to us
+ e the las...\n\nhttps://www.meetup.com/noisebridge/events/flmgtqyzqbqb/
+CLASS:PUBLIC
+CREATED:20190311T061059Z
+GEO:37.75;-122.41
+URL:https://www.meetup.com/noisebridge/events/flmgtqyzqbqb/
+LAST-MODIFIED:20190311T061059Z
+UID:event_flmgtqyzqbqb@meetup.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190618T232733Z
+DTSTART;TZID=America/Los_Angeles:20191222T160000
+DTEND;TZID=America/Los_Angeles:20191222T173000
+STATUS:CONFIRMED
+SUMMARY:audioChurch Potluck - Share your Music\, Audio and Video projects
+  at Noisebridge!
+DESCRIPTION:Noisebridge Hackerspace\nSunday\, December 22 at 4:00 PM\n\n•
+  What we'll doLet's meet for 90 minutes\, from 4pm - 5:30pm\, to share o
+ ur instruments\, music\, audio and video projects! Software\, Hardware\,
+  and Snacks...\n\nhttps://www.meetup.com/noisebridge/events/260779241/
+CLASS:PUBLIC
+CREATED:20180403T153841Z
+GEO:37.75;-122.41
+LOCATION:Noisebridge (	 2169 Mission St\, 3rd floor San Francisco\, San F
+ rancisco\, CA 94110)
+URL:https://www.meetup.com/noisebridge/events/260779241/
+LAST-MODIFIED:20180403T153841Z
+UID:event_mrvlnpyzqbdc@meetup.com
+END:VEVENT
+END:VCALENDAR

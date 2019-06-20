@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<create xmlns="DAV:" xmlns:C="urn:ietf:params:xml:ns:caldav" xmlns:I="http://apple.com/ns/ical/">
+  <set>
+    <prop>
+      <resourcetype>
+        <collection />
+        <C:calendar />
+      </resourcetype>
+      <C:supported-calendar-component-set>
+        <C:comp name="VEVENT" />
+      </C:supported-calendar-component-set>
+      <displayname>Noisebridge Calendar</displayname>
+      <C:calendar-description>Events at Noisebridge</C:calendar-description>
+      <I:calendar-color>#2E8B57</I:calendar-color>
+    </prop>
+  </set>
+</create>

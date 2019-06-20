@@ -4,7 +4,7 @@
 $app['site.title'] = 'Noisebridge Calendar';
 
 // Site logo (should be placed in public/img). Optional
-$app['site.logo'] = 'agendav_100transp.png';
+$app['site.logo'] = 'nb.logo.png';
 
 // Site footer. Optional
 $app['site.footer'] = 'Be Excellent';

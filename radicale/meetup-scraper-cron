@@ -1,0 +1,1 @@
+*/30 * * * * /usr/local/bin/python /opt/radicale/meetup_scraper.py > /proc/1/fd/1 2>/proc/1/fd/2

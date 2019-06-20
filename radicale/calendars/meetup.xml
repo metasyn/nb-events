@@ -9,8 +9,8 @@
       <C:supported-calendar-component-set>
         <C:comp name="VEVENT" />
       </C:supported-calendar-component-set>
-      <displayname>Calendar</displayname>
-      <C:calendar-description>noisebridge</C:calendar-description>
+      <displayname>Meetup Calendar</displayname>
+      <C:calendar-description>Events from meetup.com</C:calendar-description>
       <I:calendar-color>#ff0000ff</I:calendar-color>
     </prop>
   </set>
