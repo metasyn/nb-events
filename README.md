@@ -5,9 +5,10 @@ An application for setting up and compiling events across noisebridge
 # How it works
 
 There are number of things going on:
-* a CalDAV server - [radicale](https://radicale.org/)
-* a CalDAV client - [AgenDAV](https://agendav.org/)
+* a CalDAV server to hold events - [radicale](https://radicale.org/)
+* a CalDAV client to add/admin events - [AgenDAV](https://agendav.org/)
 * a meetup.com event scraper
+* [WIP] a read only calendar app - [fullcalendar](https://fullcalendar.io)
 
 Radicale holds all the events. AgenDAV lets you add new events manually, or reoccuring events. The meetup.com events are scraped on a regular basis, and then injected into radicale server.
 
@@ -42,3 +43,4 @@ The scraper will run in a few minutes - then you should see:
 # License
 
 Everything is [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
+Except for fullcalendar, which is MIT.
